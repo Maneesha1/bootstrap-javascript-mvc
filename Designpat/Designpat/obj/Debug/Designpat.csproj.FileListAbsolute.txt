@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Designpat\Designpat\bin\Debug\Designpat.exe.config
+C:\Users\Dell\source\repos\Designpat\Designpat\bin\Debug\Designpat.exe
+C:\Users\Dell\source\repos\Designpat\Designpat\bin\Debug\Designpat.pdb
+C:\Users\Dell\source\repos\Designpat\Designpat\obj\Debug\Designpat.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Designpat\Designpat\obj\Debug\Designpat.exe
+C:\Users\Dell\source\repos\Designpat\Designpat\obj\Debug\Designpat.pdb

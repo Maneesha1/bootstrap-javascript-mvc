@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\Demoxtension\Demoxtension\bin\Debug\Demoxtension.exe.config
+C:\Users\Dell\source\repos\Demoxtension\Demoxtension\bin\Debug\Demoxtension.exe
+C:\Users\Dell\source\repos\Demoxtension\Demoxtension\bin\Debug\Demoxtension.pdb
+C:\Users\Dell\source\repos\Demoxtension\Demoxtension\obj\Debug\Demoxtension.exe
+C:\Users\Dell\source\repos\Demoxtension\Demoxtension\obj\Debug\Demoxtension.pdb

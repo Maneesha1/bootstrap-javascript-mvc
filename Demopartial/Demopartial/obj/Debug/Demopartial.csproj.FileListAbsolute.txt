@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\Demopartial\Demopartial\bin\Debug\Demopartial.exe.config
+C:\Users\Dell\source\repos\Demopartial\Demopartial\bin\Debug\Demopartial.exe
+C:\Users\Dell\source\repos\Demopartial\Demopartial\bin\Debug\Demopartial.pdb
+C:\Users\Dell\source\repos\Demopartial\Demopartial\obj\Debug\Demopartial.exe
+C:\Users\Dell\source\repos\Demopartial\Demopartial\obj\Debug\Demopartial.pdb

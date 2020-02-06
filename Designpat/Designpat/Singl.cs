@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Designpat
+{
+    sealed class Singl
+    {
+        static int count = 0;
+        static Singl Instance=null;
+        public static Singl GetInstance
+        {
+            get
+            {
+                if (Instance == null) return new Singl();
+                else return Instance;
+            }
+        }
+        private Singl()
+        {
+            count++;
+            Console.WriteLine(count);
+        }
+        public void printdetails(string s)
+        {
+            Console.WriteLine("priting" + s);
+        }
+    }
+}
